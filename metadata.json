@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sorry Ruciable - Apology \u0026 Love",
+  "description": "A super cute, emotional, and dreamy apology website for Ruciable with floating hearts, interactive animations, and heartfelt messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
